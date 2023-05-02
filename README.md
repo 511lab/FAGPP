@@ -11,7 +11,7 @@ Abstract：The existing graph-based dimensionality reduction algorithms need to 
 All the experiments were conducted with 32G RAM, 64-bit Windows 10 and Inter Core i9 processor. 
 All the codes are implemented with MATLAB 2019b. 
 
-In order to keep consistent with the comparison algorithms, the 1NN classification is chosen as the base classifier. The operating parameters of the 1NN classification are as follows: Euclidean distance is used to calculate the intersample distance, and the number of sample nearest neighbors is taken as 1. When the number of columns of X does not exceed 10, the nearest neighbor search method is the KD-tree search algorithm. The maximum number of data points in the leaf node of the kdtree is 50. We set the weights of each sample to be the same, and each sample is assigned to the class closest to it.
+In order to keep consistent with the comparison algorithms, the 1NN classification is chosen as the base classifier. The operating parameters of the 1NN classification are as follows: Euclidean distance is used to calculate the intersample distance, and the number of sample nearest neighbors is taken as 1. When the number of columns of X does not exceed 10, the nearest neighbor search method is the KD-tree search algorithm. The maximum number of data points in the leaf node of the kdtree is 50. We set the weights of each sample to be the same, and each sample is assigned to the class closest to it.
 
 # Datasets
 You can also download the datasets from

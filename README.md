@@ -20,17 +20,17 @@ link: https://github.com/511lab/FAGPP/datasets
 # Source Codes on Matlab are available at,   
 https://github.com/511lab/FAGPP/code
 
-1.main.m The main function of Classification performance.
+1.main.m #The main function of Classification performance.
 
-2.L2_distance_subfun.m  The  function that calculates the distance between samples.
+2.L2_distance_subfun.m  #The  function that calculates the distance between samples.
 
-3.FAGPP.m The function of our proposed FAGPP algorithm.
+3.FAGPP.m #The function of our proposed FAGPP algorithm.
 
-4.ConstructA_NP.m  The function of the anchor point graph construction algorithm.
+4.ConstructA_NP.m  #The function of the anchor point graph construction algorithm.
 
-5.Random_sampling.m  The function of the Stratified sampling of the Classification performance.
+5.Random_sampling.m  #The function of the Stratified sampling of the Classification performance.
 
-6.EProjSimplex_new.m The function used to solve for P.
+6.EProjSimplex_new.m #The function used to solve for P.
 
 
 # Contact: 

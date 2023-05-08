@@ -14,7 +14,7 @@ All the codes are implemented with MATLAB 2019b.
 In order to keep consistent with the comparison algorithms, the 1NN classification is chosen as the base classifier. The operating parameters of the 1NN classification are as follows: Euclidean distance is used to calculate the intersample distance, and the number of sample nearest neighbors is taken as 1. When the number of columns of X does not exceed 10, the nearest neighbor search method is the KD-tree search algorithm. The maximum number of data points in the leaf node of the kdtree is 50. We set the weights of each sample to be the same, and each sample is assigned to the class closest to it.
 
 # Datasets
-You can also download the datasets from \https://github.com/511lab/FAGPP/datasets
+You can also download the datasets from r"https://github.com/511lab/FAGPP/datasets"
 
 # Codes  
 Source Codes on Matlab are available at, https://github.com/511lab/FAGPP/code

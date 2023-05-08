@@ -17,7 +17,7 @@ In order to keep consistent with the comparison algorithms, the 1NN classificati
 You can also download the datasets from [dataset](https://github.com/511lab/FAGPP/tree/main/dataset)
 
 # Codes  
-Source Codes on Matlab are available at, (https://github.com/511lab/FAGPP/code.zip)
+Source Codes on Matlab are available at, [code](https://github.com/511lab/FAGPP/blob/main/code.zip)
 
 1.main.m #The main function of Classification performance.
 

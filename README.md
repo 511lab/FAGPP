@@ -40,7 +40,7 @@ Source Codes on Matlab are available at [code](https://github.com/511lab/FAGPP/t
 10.EuDist2.m #EuDist2 compute the Euclidean distance matrix。
 
 # experimental results
-You can also download the experimental results from [results](https://github.com/511lab/FAGPP/tree/main/experimental results).
+You can also download the experimental results from [results](https://github.com/511lab/FAGPP/tree/main/experimental%20results).
 
 # Operation Video
 You can download the [Video](https://github.com/511lab/FAGPP/tree/main/Operation-Video.rar).

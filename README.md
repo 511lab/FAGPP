@@ -17,7 +17,7 @@ In order to keep consistent with the comparison algorithms, the 1NN classificati
 You can also download the datasets from [dataset](https://github.com/511lab/FAGPP/tree/main/dataset)
 
 # Codes  
-Source Codes on Matlab are available at, [code](https://github.com/511lab/FAGPP/tree/main/code)
+Source Codes on Matlab are available at [code](https://github.com/511lab/FAGPP/tree/main/code)
 
 1.main.m #The main function of Classification performance.
 
@@ -39,6 +39,11 @@ Source Codes on Matlab are available at, [code](https://github.com/511lab/FAGPP/
 
 10.EuDist2.m #EuDist2 compute the Euclidean distance matrix。
 
+# experimental results
+You can also download the experimental results from [results](https://github.com/511lab/FAGPP/tree/main/experimental results).
+
+# Operation Video
+You can download the [Video](https://github.com/511lab/FAGPP/tree/main/Operation-Video).
 
 # Contact: 
 For any problem about this dataset or codes, please contact Dr. Wang (wjkweb@163.com).

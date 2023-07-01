@@ -27,9 +27,17 @@ Source Codes on Matlab are available at, [code](https://github.com/511lab/FAGPP/
 
 4.ConstructA_NP.m  #The function of the anchor point graph construction algorithm.
 
-5.Random_sampling.m  #The function of the Stratified sampling of the Classification performance.
+5.hKM.m #Calculate anchors by calculating the center of the sub-clusters.
 
-6.EProjSimplex_new.m #The function used to solve for P.
+6.Random_sampling.m  #The function of the Stratified sampling of the Classification performance.
+
+7.EProjSimplex_new.m #The function used to solve for P.
+
+8.L2_distance_1.m #Compute squared Euclidean distance
+
+9.measure.m #Compute the classification performance of the algorithm based on the 1NN classifier
+
+10.EuDist2.m #EuDist2 compute the Euclidean distance matrix。
 
 
 # Contact: 
